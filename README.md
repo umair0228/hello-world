@@ -1,3 +1,3 @@
 # hello-world
 An initial sample project / tutorial
-Hi I am adding this text in readme-edits branch to have a changed look, different than Main branch.
+Hi! I am just using this project as a sample of my ongoing tutorial work.
